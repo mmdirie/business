@@ -1,0 +1,6 @@
+{
+  "name": "OmniBiz Multi-Tenant SaaS",
+  "description": "Scalable multi-tenant business management system with isolated tenant data, multi-business switcher, sales, inventory, accounting, and PHP/MySQL backend architecture.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
